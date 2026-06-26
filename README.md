@@ -136,17 +136,5 @@ Most orders are delivered within 1 to 3 days, indicating efficient logistics ope
 📌 Customer Satisfaction
 The average customer rating is 4.0/5, suggesting generally positive customer experiences.
 
-🧠 Skills Demonstrated
-Data Cleaning
-Data Transformation
-Pivot Tables
-Pivot Charts
-Dashboard Design
-KPI Development
-Data Visualization
-Business Intelligence
-Data Storytelling
-Analytical Thinking
-
 🎯 Project Outcome
 Successfully transformed raw e-commerce transaction data into an interactive business intelligence dashboard that enables stakeholders to monitor performance, identify trends, and make data-driven decisions.
