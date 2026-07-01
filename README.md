@@ -8,7 +8,8 @@ This project demonstrates the complete data analysis lifecycle using Microsoft E
 The objective of this project is to analyze e-commerce transactions across California and provide business insights through data visualization and KPI reporting.
 
 # Dashboard Interaction : 
-<img width="1585" height="761" alt="image" src="https://github.com/user-attachments/assets/29669718-0aae-43c7-a3d0-1042db788698" />
+<img width="1337" height="761" alt="image" src="https://github.com/user-attachments/assets/af5edbf2-d854-4d60-a6da-fd683fbdbe78" />
+
 
 # The entire dashboard is built using:
 
