@@ -146,7 +146,7 @@ The average customer rating is 4.0/5, suggesting generally positive customer exp
 • Prioritize high-performing products like T-Shirts, Jeans & Sneakers.
 • Strengthen App & Website experiences to improve digital sales.
 • Optimize inventory and marketing in high-demand locations.
-• Monitor delayed deliveries and lower ratings to improve customer experience.
+• Monitor delayed deliveries and lower ratings to improve customer experience. 
 
 
 🎯 Project Outcome
